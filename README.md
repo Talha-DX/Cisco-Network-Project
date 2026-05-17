@@ -9,8 +9,6 @@
 - Management Dept
 - Testing Dept
 
-**What Problems Industry facing**
-
 
 **We Also Includes different Servers:**
 - HTTP ( For managing data smooth data handling from server to client )
@@ -20,31 +18,31 @@
 **Screen Shots**
 
 ### 1) Whole System
-![Login Screen](./Pictures/Whole.png)
+![Whole_System](./Pictures/Whole.png)
 
 ### 2) Sales Dept
-![Main DashBoard](./Pictures/Sales.png)
+![Sales](./Pictures/Sales.png)
 
 ### 3) HR Dept
-![Main DashBoard](./Pictures/HR.png)
+![HR](./Pictures/HR.png)
 
-### 4) Login Page
-![Login Page](./Pictures/Email.png)
+### 4) Manage
+![Manage](./Pictures/Manage.png)
 
-### 5) Signup Page
-![SignUp Page](./Pictures/Email.png)
+### 5) Testing
+![Testing](./Pictures/Testing.png)
 
-### 6) Diagnsis Tab
-![Diagnosis Tab](./Pictures/Email.png)
+### 6) Servers
+![Serversb](./Pictures/Servers.png)
 
-### 7) ChatBot Tab
-![chatBot Tab](./Pictures/Email.png)
+### 7) Files FTP
+![Files](./Pictures/File.png)
 
-### 8) Doctor Recommendation Tab
-![Doctor Tab](./Pictures/Email.png)
+### 8) Email SMTP
+![Email](./Pictures/Email.png)
 
-### 9) Report Tab
-![Report Tab](./Pictures/Email.png)
+### 9) Web_Portal HTTP
+![Web_Portal](./Pictures/Web_Portal.png)
 
 
 
