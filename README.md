@@ -19,15 +19,14 @@
 
 **Screen Shots**
 
-### 1) Login Screen
-![Login Screen](./Pictures/Email.png)
+### 1) Whole System
+![Login Screen](./Pictures/Whole.png)
 
-### 2) Main DashBoard Dashboard (without Login)
-![Main DashBoard](./Pictures/Email.png)
+### 2) Sales Dept
+![Main DashBoard](./Pictures/Sales.png)
 
-
-### 3) Main DashBoard Dashboard (with Login)
-![Main DashBoard](./Pictures/Email.png)
+### 3) HR Dept
+![Main DashBoard](./Pictures/HR.png)
 
 ### 4) Login Page
 ![Login Page](./Pictures/Email.png)
